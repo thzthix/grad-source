@@ -1,0 +1,16 @@
+.exercise-progress-card{
+    border: none;
+    
+}
+/* .title-holder{
+    align-self: flex-start;
+    margin-bottom: 2rem;
+    
+} */
+.title-holder{
+    align-self: flex-start;
+}
+h3{
+    font-size: 1.2rem;
+    margin: 0;
+}
